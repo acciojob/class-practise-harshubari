@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.selector{
+	color: #00f;
+	background-color: #eee;
+	font-family: Arial;
+	font-size: 20px;
+}
+.normal{
+	color:black;
+	background: none;
+	font-size: 16px;
+}
